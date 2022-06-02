@@ -1,0 +1,14 @@
+1) body{background-image:url("bgr.jpg");}
+2)Fixed width layoutthe size remain the same regardless of the size of the browser window viewing the page
+  liqiud layout to adapt content for output sizes
+3)<table>
+  <tr>
+    <td>Emil</td>
+    <td>Username</td>
+  </tr>
+ </table>
+4)<ol>
+  <li>Email</li>
+  <li>Password</li>
+  <li>username</li>
+</ol>

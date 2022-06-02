@@ -1,0 +1,19 @@
+body {
+    background-color: #caa5a5;
+    width: 960px;
+    margin: 0 auto;}
+    #content {
+    height: 100%;}
+    #nav, #feature, #footer {
+    background-color: #d4b3b3;
+    padding: 10px;
+    margin: 10px;}
+    
+    .column1, .column2, .column3 {
+    background-color: #caa5a5;
+    width: 300px;
+    float: left;
+    margin: 10px;}
+    li {
+    display: inline;
+    padding: 5px;}
